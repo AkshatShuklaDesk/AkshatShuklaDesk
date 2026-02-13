@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AkshatShuklaDesk
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently at Amazon as an Associate @ ML Data Operations.
-- 📫 How to reach me mail me.
+👋 Hi, I’m Akshat Shukla  
+💻 Developer passionate about coding and problem-solving  
+🚀 Associate — ML Data Operations @ Amazon  
+📫 Feel free to connect via email
 
 <!---
 AkshatShuklaDesk/AkshatShuklaDesk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

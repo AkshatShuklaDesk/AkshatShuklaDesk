@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshatShuklaDesk
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently at Amazon as an Associate @ ML Data Operations.
 - 📫 How to reach me mail me.
 
 <!---

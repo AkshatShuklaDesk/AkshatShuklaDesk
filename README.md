@@ -21,8 +21,7 @@
 </p>
 
  **<h3 align="left">👋 Hi, I’m Akshat Shukla  
-💻 Developer passionate about coding and problem-solving  
-🚀 Associate — ML Data Operations @ Amazon  
+💻 Developer passionate about coding and problem-solving   
 📫 Feel free to connect via email</h3>**
 
  **<h3 align="left">Skills</h3>**
